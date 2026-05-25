@@ -30,5 +30,5 @@ The application includes:
 1. Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/juliakovall/react/tree/main/lesson43
 ```
